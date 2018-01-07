@@ -3,4 +3,5 @@ class Main(object):
         return num1 + num2
 
 print(123)
+print(123)
     
